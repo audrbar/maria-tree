@@ -37,7 +37,7 @@ function List() {
                                         {
                                             t.image
                                                 ? <img className="list-image" alt="" src={IMG + t.image} />
-                                                : <img className="list-image" alt="" src={IMG + '7dbeca7c-185c-4778-ab9e-d28e6fb0fecf.png'} />
+                                                : <img className="list-image" alt="" src={IMG + '23-tree-picture.png'} />
                                         }
                                     </div>
                                 </div>
