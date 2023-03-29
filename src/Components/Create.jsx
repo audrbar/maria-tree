@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import { useState } from 'react';
 import { useFile } from '../Use/useFile';
-import { Global } from './GlobalContex';
+import { Global } from './GlobalContext';
 
 function Create() {
 

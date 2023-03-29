@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.scss';
-import { GlobalProvider } from './Components/GlobalContex';
+import { GlobalProvider } from './Components/GlobalContext';
 import List from './Components/List';
 import Create from './Components/Create';
 import EditModal from './Components/EditModal';

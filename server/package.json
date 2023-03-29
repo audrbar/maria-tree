@@ -1,0 +1,24 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "React CRUD App MariaDB",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "keywords": [
+        "express",
+        "mysql"
+    ],
+    "author": "audrbar",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "md5": "^2.3.0",
+        "mysql": "^2.18.1",
+        "nodemon": "^2.0.22",
+        "uuid": "^9.0.0"
+    }
+}

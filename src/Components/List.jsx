@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import { Global } from './GlobalContex';
+import { Global } from './GlobalContext';
 
 const IMG = 'http://localhost:3004/';
 

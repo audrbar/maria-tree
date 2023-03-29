@@ -2,7 +2,7 @@ import { useContext, useEffect } from 'react';
 import axios from 'axios';
 import Loader from './Loader';
 import Login from './Login';
-import { Global } from './GlobalContex';
+import { Global } from './GlobalContext';
 
 function Auth({ children }) {
 
